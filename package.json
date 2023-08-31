@@ -1,0 +1,22 @@
+{
+  "name": "basicnode",
+  "version": "1.0.0",
+  "description": "latihan_node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrasmf/basicnode.git"
+  },
+  "keywords": [
+    "latihan_node"
+  ],
+  "author": "Farras Muhammad Furqon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrasmf/basicnode/issues"
+  },
+  "homepage": "https://github.com/farrasmf/basicnode#readme"
+}
